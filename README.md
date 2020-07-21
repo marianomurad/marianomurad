@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Mariano 👋
 
-- 🔭 I’m currently working on K+C Americas
+**[LinkedIn](https://www.linkedin.com/in/marianomurad)**
+
+- 🔭 I’m currently working on [K+C Americas](https://www.kinandcarta.com/en-us/)
 - 🌱 I’m currently learning Scala 
 - 💬 Ask me about anything
 - 📫 How to reach me: marianomurad21@gmail.com
