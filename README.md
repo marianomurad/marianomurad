@@ -4,6 +4,6 @@
 
 - 🔭 I’m currently working on [K+C Americas](https://www.kinandcarta.com/en-us/)
 - :shipit: Check out [iZap](https://izap.com.ar)
-- 🌱 I’m currently learning Scala 
+- 🌱 I’m currently learning Flutter 
 - 💬 Ask me about anything
 - 📫 How to reach me: marianomurad21@gmail.com
